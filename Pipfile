@@ -1,0 +1,13 @@
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+djangorestframework = "*"
+shell = "*"
+mysqlclient = "*"
+
+[requires]
+python_version = "3.8"
